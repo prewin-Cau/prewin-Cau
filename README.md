@@ -3,7 +3,7 @@
 <div>
    <a href="https://github.com/prewin-Cau">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prewin-Cau&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prewin-Cau&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prewin-Cau&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
 <div style="display: inline_block"><br>
